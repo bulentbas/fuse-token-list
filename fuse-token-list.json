@@ -1,0 +1,122 @@
+{
+  "name": "Bezergan",
+  "logoURI": "https://bezergan.com/cdn/logo-website-black.png",
+  "keywords": ["Defi", "bezergan", "curated"],
+  "tags": {
+    "defi": {
+      "name": "Bezergan DeFi Tokens",
+      "description": "Tokens associated with the products listed at bezergan.com"
+  },
+  "timestamp": "2022-01-26T00:00:00+00:00",
+  "tokens": [
+{
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "decimals": 8,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "name": "DAI",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+      "symbol": "FRAX",
+      "name": "Frax",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+      "symbol": "FXS",
+      "name": "Frax Share",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "symbol": "LEND",
+      "name": "Aave",
+      "decimals": 18,
+      "tags": ["defi"]
+    },    
+    {
+      "chainId": 1,
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "symbol": "MKR",
+      "name": "MakerDAO",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "symbol": "YFI",
+      "name": "Yearn.finance",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "symbol": "SUSHI",
+      "name": "SushiSwap",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+ {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+      "symbol": "UMA",
+      "name": "Uma",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "symbol": "KNC",
+      "name": "KyberSwap",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
